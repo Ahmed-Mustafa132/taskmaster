@@ -73,10 +73,10 @@ class TaskManager {
                     <span class="task-text">${task.text}</span>
                     <div class="task-actions">
                         <button class="btn-action btn-complete">
-                            <i class="fas fa-check"></i>
+                            <i class="fas fa-check"></i> Complete
                         </button>
                         <button class="btn-action btn-delete">
-                            <i class="fas fa-trash"></i>
+                            <i class="fas fa-trash"></i> Delete
                         </button>
                     </div>
                 `;
